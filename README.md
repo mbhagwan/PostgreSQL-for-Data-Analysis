@@ -1,4 +1,1 @@
-**Summary: Course notes and exercises**<br>
-Course: PostgreSQL for Data Analysis<br>
-Instructor: Derek Steer<br>
-Course site: udacity.com
+**Course:** [(Postgre) SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
