@@ -1,4 +1,4 @@
-**Course:** [(Postgre) SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)<br>
+**Course:** [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)<br>
 by: Udacity
 
 **Course syllabus:**
